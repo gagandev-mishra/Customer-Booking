@@ -1,16 +1,17 @@
 ### **Project: Predicting Customer Booking Completion for British Airways** ✈️  
 
-#### **Overview**  
+#### **📌 Overview**  
 This project aims to predict whether a customer will complete a flight booking based on historical booking data from British Airways. Using machine learning models, we analyze customer behavior, booking trends, and key factors that influence booking completion.  
 
 The insights from this model can help optimize marketing strategies, improve customer targeting, and increase booking conversions.  
+
 ---
 
 ## **🔬 Problem Statement**  
-British Airways wants to identify potential customers who are most likely to complete their flight bookings. By predicting customer behavior, the airline can:  
-Personalize marketing offers 🎯  
-Optimize pricing & promotions 💰  
-Improve customer engagement & retention 📈  
+British Airways wants to identify potential customers who are most likely to complete their flight bookings. By predicting customer behavior, the airline can:
+- Personalize marketing offers 🎯  
+- Optimize pricing & promotions 💰  
+- Improve customer engagement & retention 📈  
 ---
 
 ## **📊 Dataset Description**  
@@ -43,6 +44,7 @@ The dataset contains customer booking information, including:
    - **Logistic Regression**  
    - **Random Forest** *Best Performing Model*  
 **Model Evaluation** – Used Accuracy, Precision, Recall, F1-score, and AUC-PR to find the best-performing model.  
+
 ---
 
 ## **Key Findings & Results**  
